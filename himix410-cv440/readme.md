@@ -1,0 +1,1 @@
+cv440-himix410.zip：包含core gapi imgproc imgcodecs四个模块。编译时仅去除了其他木块没有，没有添加编译选项。
