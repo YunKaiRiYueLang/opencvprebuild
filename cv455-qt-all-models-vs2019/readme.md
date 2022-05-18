@@ -1,0 +1,1 @@
+vs2019 x64  带有opencv_contrib 使用了Qt5.12.9(WITH_QT),不包含qt库文件。
