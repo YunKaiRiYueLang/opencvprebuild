@@ -1,3 +1,4 @@
+pc端的库
 opencv 450 编译了core imgproc highgui imgcodecs模块
 highgui模块，是和qt库关联的。关联的qt库。这里不上传了。
 这个是我为了使用qt风格的imshow 编译的
